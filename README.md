@@ -13,7 +13,9 @@ npm run dev
 
 - The server should start at: `http://localhost:5173/`
 
-You should be able to see the slider.
+You should be able to see the slider something like below:
+
+- ![Slider](/public/slider.png?raw=true)
 
 ## Dev Comments
 - Not using <input> tag makes us to make compromises like using the React ref API, and target the DOM which is not a recommended React pattern
