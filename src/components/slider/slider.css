@@ -1,0 +1,17 @@
+.slider-ref {
+    position: relative;
+    height: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.slider-marker {
+    position: absolute;
+    top: -5px;
+    transform: translateX(-50%);
+    width: 20px;
+    height: 20px;
+    background-color: rgb(108, 84, 246);
+    border-radius: 50%;
+    cursor: grab;
+}
